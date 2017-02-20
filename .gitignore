@@ -11,3 +11,9 @@ bower_components
 bin
 obj
 packages
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
