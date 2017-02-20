@@ -12,8 +12,6 @@ bin
 obj
 packages
 
-# Logs and databases #
+# Logs #
 ######################
 *.log
-*.sql
-*.sqlite
